@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>F1 Quiz – How Well Do You Know F1?</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  
+  <header>
+    <div class="container">
+      <div class="logo">
+        <img src="images/logo.png" alt="F1 Quiz Logo" />
+        <span>F1 Quiz</span>
+      </div>
+      <nav id="navbar" class="nav">
+        <ul>
+          <li><a href="#hero">Home</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#quiz">Quiz</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+      <div class="burger" id="burger">&#9776;</div>
+    </div>
+  </header>
+
+  
+  <section class="hero" id="hero">
+    <div class="hero-content">
+      <h1>How Well Do You Know F1?</h1>
+      <p>Test your knowledge of the world's fastest motorsport – Formula 1!</p>
+      <a href="#quiz" class="btn">Start the Quiz</a>
+    </div>
+  </section>
+
+  
+  <section id="about" class="page-section">
+    <div class="container">
+      <h2>About</h2>
+      <p>Welcome to the F1 Quiz – your ultimate test of speed, strategy, and knowledge! Whether you're a longtime fan of Formula 1 or just starting your motorsport journey, this quiz will challenge what you know about the world's fastest and most thrilling racing series.</p>
+      <div class="about-columns">
+        <div class="about-box">
+          <h3>🏎️ What is Formula 1?</h3>
+          <p>Formula 1 is the highest class of international racing for open-wheel single-seater cars. With iconic teams like Ferrari, Red Bull, and Mercedes, it's a mix of engineering brilliance, driver skill, and nonstop action on the track.</p>
+        </div>
+        <div class="about-box">
+          <h3>❓ What's in the Quiz?</h3>
+          <p>The quiz includes questions about drivers, circuits, world champions, team histories, and legendary F1 moments. From modern-day battles to historical rivalries, test your memory and fandom.</p>
+        </div>
+        <div class="about-box">
+          <h3>🔥 Why Take the Quiz?</h3>
+          <p>It's fun, competitive, and great for learning! Whether you're prepping for F1 Fantasy, competing with friends, or just proving your fandom, this is your pit stop for knowledge.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  
+  <section id="quiz" class="page-section">
+    <div class="container">
+      <h2>Quiz</h2>
+      <div id="quiz-container">
+        <h3 id="question"></h3>
+        <div id="answers" class="answers"></div>
+        <button id="next-btn" class="btn" style="display: none;">Next</button>
+      </div>
+      <div id="quiz-result"></div>
+    </div>
+  </section>
+
+  
+  <section id="contact" class="page-section">
+    <div class="container">
+      <h2>Contact</h2>
+      <form id="contactForm">
+        <input type="text" placeholder="Your Name" name="name" required />
+        <input type="email" placeholder="Your Email" name="email" required />
+        <input type="password" placeholder="Secret Code (anything you like)" name="password" id="password" required />
+        <label><input type="checkbox" id="togglePassword" /> Show Secret Code</label>
+        <textarea placeholder="Your Message" name="message" required></textarea>
+        <button type="submit" class="btn">Send Message</button>
+        <p class="form-message" id="formMessage"></p>
+      </form>
+    </div>
+  </section>
+
+  
+  <button id="scrollTopBtn" title="Go to top">↑</button>
+
+  
+  <div id="cookieBanner" class="cookie-banner">
+    <p>We use cookies to ensure the best experience. <button id="acceptCookies" class="btn">Accept</button></p>
+  </div>
+
+
+  <footer>
+    <div class="container footer-grid">
+      <div class="footer-brand">
+        <h3>F1 QUIZ</h3>
+        <p>Challenge yourself with exciting Formula 1 trivia questions!</p>
+      </div>
+      <div class="footer-links">
+        <h4>Navigation</h4>
+        <ul>
+          <li><a href="#hero">Home</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#quiz">Quiz</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </div>
+      <div class="footer-contact">
+        <h4>Contact Info</h4>
+        <p>Email: info@f1quiz.com</p>
+        <p>Phone: +995 599 12 34 56</p>
+        <p>Tbilisi, Georgia</p>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>© 2025 F1 Quiz. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <script src="js/script.js"></script>
+</body>
+</html>

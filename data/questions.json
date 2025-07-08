@@ -1,0 +1,102 @@
+[
+  {
+    "question": "At which district is the Monaco Grand Prix held?",
+    "answers": ["Paris", "Milan", "Nice", "Monte Carlo"],
+    "correct": 3
+  },
+  {
+    "question": "How many drivers typically start on the grid in a modern Formula 1 Grand Prix?",
+    "answers": ["18", "24", "22", "20"],
+    "correct": 3
+  },
+  {
+    "question": "Which team is represented by the prancing horse logo?",
+    "answers": ["McLaren", "Ferrari", "Red Bull", "Mercedes"],
+    "correct": 1
+  },
+  {
+    "question": "What is the name of the championship awarded to the highest-scoring driver at season's end?",
+    "answers": ["Grand Prix Cup", "Constructors' Championship", "Formula 1 Trophy", "World Drivers' Championship"],
+    "correct": 3
+  },
+  {
+    "question": "Which country hosts the Belgian Grand Prix at Spa‑Francorchamps?",
+    "answers": ["Belgium", "Germany", "Netherlands", "France"],
+    "correct": 0
+  },
+  {
+    "question": "In which year was the first Formula 1 World Championship held?",
+    "answers": ["1950", "1955", "1948", "1960"],
+    "correct": 0
+  },
+  {
+    "question": "Who holds the record for the most career pole positions in Formula 1?",
+    "answers": ["Lewis Hamilton", "Michael Schumacher", "Ayrton Senna", "Sebastian Vettel"],
+    "correct": 0
+  },
+  {
+    "question": "Which circuit is known as the \"Temple of Speed\" due to its high average lap speeds?",
+    "answers": ["Spa‑Francorchamps", "Silverstone", "Monza", "Circuit de Catalunya"],
+    "correct": 2
+  },
+  {
+    "question": "Which team introduced the dominant hybrid power unit era in 2014?",
+    "answers": ["Ferrari", "Mercedes", "Renault", "Honda"],
+    "correct": 1
+  },
+  {
+    "question": "What does DRS stand for in Formula 1?",
+    "answers": ["Directional Restraint System", "Downforce Release System", "Drag Reduction System", "Dynamic Racing Strategy"],
+    "correct": 2
+  },
+  {
+    "question": "Which Grand Prix first featured a Formula 1 Sprint race in 2021?",
+    "answers": ["British Grand Prix", "Italian Grand Prix", "Austrian Grand Prix", "Brazilian Grand Prix"],
+    "correct": 0
+  },
+  {
+    "question": "Who won the 2021 FIA Formula 1 World Drivers' Championship?",
+    "answers": ["Lewis Hamilton", "Sebastian Vettel", "Max Verstappen", "Valtteri Bottas"],
+    "correct": 2
+  },
+  {
+    "question": "What is the famous Spa corner called Eau Rouge?",
+    "answers": ["La Source", "La Rascasse", "Eau Rouge", "Bus Stop Chicane"],
+    "correct": 2
+  },
+  {
+    "question": "Which Grand Prix held in 2008 was the first to take place at night?",
+    "answers": ["Qatar", "Abu Dhabi", "Bahrain", "Singapore"],
+    "correct": 3
+  },
+  {
+    "question": "Which driver holds the highest podium finish rate at Spa?",
+    "answers": ["Michael Schumacher", "Lewis Hamilton", "Sebastian Vettel", "Ayrton Senna"],
+    "correct": 0
+  },
+  {
+    "question": "Which driver was the first to win more than 90 races in F1?",
+    "answers": ["Michael Schumacher", "Lewis Hamilton", "Sebastian Vettel", "Fernando Alonso"],
+    "correct": 0
+  },
+  {
+    "question": "Which component opens to reduce drag and aid overtaking?",
+    "answers": ["DRS", "ERS", "ABS", "TCS"],
+    "correct": 0
+  },
+  {
+    "question": "Which team introduced the first turbocharged engine in F1?",
+    "answers": ["Ferrari", "Renault", "Honda", "BMW"],
+    "correct": 1
+  },
+  {
+    "question": "Which circuit is known for its iconic arch bridge, Eau Rouge?",
+    "answers": ["Spa‑Francorchamps", "Monza", "Silverstone", "Suzuka"],
+    "correct": 0
+  },
+  {
+    "question": "How many cars typically start an F1 race grid?",
+    "answers": ["18", "20", "22", "24"],
+    "correct": 1
+  }
+]
